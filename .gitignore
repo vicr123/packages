@@ -1,0 +1,5 @@
+fedora/rpmbuild/BUILD/*
+fedora/rpmbuild/BUILDROOT/*
+fedora/rpmbuild/RPMS/*
+fedora/rpmbuild/SOURCES/*
+fedora/rpmbuild/SRPMS/*
